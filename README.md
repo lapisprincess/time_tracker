@@ -10,5 +10,5 @@ This program is meant to work alongside [Thyme](https://github.com/joaomoreno/Th
 
 Crates used in this project:
 ----
-- [EGUI](https://crates.io/crates/egui)
-- [JSON for Rust](https://crates.io/crates/json)
+- [egui](https://crates.io/crates/egui)
+- [serde](https://crates.io/crates/serde)
