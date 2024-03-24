@@ -12,3 +12,4 @@ Crates used in this project:
 ----
 - [egui](https://crates.io/crates/egui)
 - [serde](https://crates.io/crates/serde)
+- [serde_json](https://crates.io/crates/serde_json)
