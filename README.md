@@ -7,3 +7,8 @@ As such, I wanted to develop a program to help me organize how much time I spend
 This program incorporates a GUI which visualizes entries to the user, and fascilitates the process of adding new entries.
 
 This program is meant to work alongside [Thyme](https://github.com/joaomoreno/Thyme), as it reads the JSON files produced by it, appending them to the user-inputted data.
+
+Crates used in this project:
+----
+- [EGUI](https://crates.io/crates/egui)
+- [JSON for Rust](https://crates.io/crates/json)
